@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from "react"
+import {useState, useEffect} from "react"
 import Dice from "./components/Dice"
 import Won from "./components/Won"
 import uniqid from 'uniqid'
